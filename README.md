@@ -1,6 +1,6 @@
 HackIO
 ======
-![alt tag](https://drive.google.com/file/d/0B567d_dEyFS6UWJYUEM4TlpyV0E/view?usp=sharing)
+![alt tag](https://tw.pycon.org/2015apac/images/Logo_red_1280.svg)
 
 '''
 from __future__ import all
